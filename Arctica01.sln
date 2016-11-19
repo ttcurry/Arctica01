@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{74E7B307-6C48-D0D8-B3E4-2B65E0B7562C}") = "Arctica01", "Assembly-CSharp.csproj", "{E3310ADF-F0D8-FAE7-07B6-E7A423C519BB}"
+EndProject
+Project("{74E7B307-6C48-D0D8-B3E4-2B65E0B7562C}") = "Arctica01", "Assembly-CSharp-Editor.csproj", "{39462E7E-6727-823C-7E13-2952F9BD218D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3310ADF-F0D8-FAE7-07B6-E7A423C519BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3310ADF-F0D8-FAE7-07B6-E7A423C519BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3310ADF-F0D8-FAE7-07B6-E7A423C519BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3310ADF-F0D8-FAE7-07B6-E7A423C519BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39462E7E-6727-823C-7E13-2952F9BD218D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39462E7E-6727-823C-7E13-2952F9BD218D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39462E7E-6727-823C-7E13-2952F9BD218D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39462E7E-6727-823C-7E13-2952F9BD218D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
